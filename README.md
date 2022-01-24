@@ -16,7 +16,7 @@
 </p>
 
 ## 🛠 Technical Stack
-*   Java/Kotlin/python/ languages
+*   Java/Kotlin/python languages
 *   PostgreSQL, Sqlite, Ibm DB2
 *   Spring Framework, Spring Boot, Spring Data Jpa 
 *   GitHub/GitLab/Bitbucket
