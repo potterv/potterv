@@ -23,5 +23,5 @@
 
 ### My opensource projects
 
-*   [sevafisha](https://github.com/potterv/sevafishategabot) - 
+*   [szv-k] (https://github.com/potterv/szvk_spring) - Проект предназначен для обработки xml файлов в ПФР, формирования запросов в формате xls. После получения отвера в формате XLS, файлы загружаем через веб форму.
 
